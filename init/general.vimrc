@@ -52,9 +52,6 @@ set encoding=UTF-8
 " colorscheme for terminal vim
 colorscheme default
 
-" search highlight
-highlight Search guibg=LightBlue
-
 " folding
 highlight Folded ctermfg=Grey
 highlight Folded ctermbg=Black
