@@ -40,3 +40,6 @@
 [submodule "bundle/omni"]
 	path = bundle/omni
 	url = https://github.com/GuiLra/vim-omni.git
+[submodule "bundle/pathogen"]
+	path = bundle/pathogen
+	url = https://github.com/tpope/vim-pathogen.git
