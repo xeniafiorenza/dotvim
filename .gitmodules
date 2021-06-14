@@ -1,0 +1,42 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "bundle/nerdtree-git-plugin"]
+	path = bundle/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "bundle/vim-devicons"]
+	path = bundle/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "bundle/vim-nerdtree-syntax-highlight"]
+	path = bundle/vim-nerdtree-syntax-highlight
+	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git
+[submodule "bundle/vim-fish"]
+	path = bundle/vim-fish
+	url = https://github.com/dag/vim-fish.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-bufkill"]
+	path = bundle/vim-bufkill
+	url = https://github.com/qpkorr/vim-bufkill.git
+[submodule "bundle/camelcasemotion"]
+	path = bundle/camelcasemotion
+	url = https://github.com/bkad/CamelCaseMotion.git
+[submodule "bundle/vim-easymotion"]
+	path = bundle/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "bundle/nerdtree-visual-selection"]
+	path = bundle/nerdtree-visual-selection
+	url = https://github.com/PhilRunninger/nerdtree-visual-selection.git
+[submodule "bundle/omni"]
+	path = bundle/omni
+	url = https://github.com/GuiLra/vim-omni.git
