@@ -55,9 +55,6 @@
 [submodule "bundle/nerdtree-devicons"]
 	path = bundle/nerdtree-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
-[submodule "bundle/fugitive"]
-	path = bundle/fugitive
-	url = https://tpope.io/vim/fugitive.git
 [submodule "bundle/fish"]
 	path = bundle/fish
 	url = https://github.com/dag/vim-fish.git
@@ -74,4 +71,7 @@
 	path = bundle/airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
 [submodule "fugitive"]
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
