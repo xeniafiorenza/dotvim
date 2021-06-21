@@ -46,3 +46,30 @@
 [submodule "bundle/undotree"]
 	path = bundle/undotree
 	url = https://github.com/mbbill/undotree.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/nerdtree-syntax-highlight"]
+	path = bundle/nerdtree-syntax-highlight
+	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git
+[submodule "bundle/nerdtree-devicons"]
+	path = bundle/nerdtree-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://tpope.io/vim/fugitive.git
+[submodule "bundle/fish"]
+	path = bundle/fish
+	url = https://github.com/dag/vim-fish.git
+[submodule "bundle/easymotion"]
+	path = bundle/easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "bundle/bufkill"]
+	path = bundle/bufkill
+	url = https://github.com/qpkorr/vim-bufkill
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/airline-themes"]
+	path = bundle/airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
