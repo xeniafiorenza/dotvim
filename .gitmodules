@@ -78,3 +78,9 @@
 [submodule "bundle/coc"]
 	path = bundle/coc
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "bundle/windowswap"]
+	path = bundle/windowswap
+	url = https://github.com/wesQ3/vim-windowswap
