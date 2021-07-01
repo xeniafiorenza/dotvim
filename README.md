@@ -3,16 +3,11 @@ My Vim config files!
 
 ## Showcase
 
-### Looks
-Terminal Vim:
+### Terminal Vim:
+<img width="600" alt="Screenshot 2021-07-01 at 19 51 42" src="https://user-images.githubusercontent.com/40383042/124120146-fd5b2500-daa5-11eb-9230-d71efc9e5224.png">
 
-
-MacVim:
-
-
-### Features
-
-
+### MacVim:
+<img width="600" alt="Screenshot 2021-07-01 at 19 53 01" src="https://user-images.githubusercontent.com/40383042/124120154-ff24e880-daa5-11eb-9dfd-40d306497344.png">
 
 ## Installation
 
