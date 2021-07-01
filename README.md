@@ -1,4 +1,18 @@
 # dotvim
+My Vim config files!
+
+## Showcase
+
+### Looks
+Terminal Vim:
+
+
+MacVim:
+
+
+### Features
+
+
 
 ## Installation
 

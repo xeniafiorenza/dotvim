@@ -57,4 +57,17 @@ highlight Folded ctermfg=Grey
 highlight Folded ctermbg=Black
 
 " line numbers
-highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
+highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE
+
+" gutter
+highlight clear SignColumn
+
+" set highlight colors
+highlight SpellBad ctermbg=DarkRed
+highlight SpellCap ctermbg=DarkMagenta ctermfg=Black
+highlight todo ctermbg=Yellow ctermfg=Black guifg=Yellow
+
+" set ALE colors
+highlight ALEErrorSign ctermfg=Red
+highlight ALEWarningSign ctermfg=Yellow
+highlight ALEWarning cterm=underline
