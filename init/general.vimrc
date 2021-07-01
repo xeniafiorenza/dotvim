@@ -31,8 +31,8 @@ set hlsearch     " highlight search results
 set showmatch
 
 " tab width settings
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set expandtab
 
 " make backspace work like other programs
