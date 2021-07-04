@@ -90,3 +90,6 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
+[submodule "bundle/vimsence"]
+	path = bundle/vimsence
+	url = https://github.com/vimsence/vimsence.git
