@@ -1,6 +1,11 @@
 # dotvim
 My Vim config files!
 
+## Introduction
+I use regular Vim. However, I've very recently made the switch to NeoVim (using my existing Vim config). I might switch up how I choose to configure it in the near future. 
+
+Showcase below is from before the switch.
+
 ## Showcase
 
 ### Terminal Vim:
