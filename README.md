@@ -1,10 +1,9 @@
 # dotvim
 My Vim config files!
 
-## Introduction
-I use regular Vim. However, I've very recently made the switch to NeoVim (using my existing Vim config). I might switch up how I choose to configure it in the near future. 
-
-Showcase below is from before the switch.
+## Archived
+I have since made the switch to NeoVim, and changed my config accordingly.
+You can find my nvim config files [here](https://github.com/xeniafiorenza/nvim-config).
 
 ## Showcase
 
